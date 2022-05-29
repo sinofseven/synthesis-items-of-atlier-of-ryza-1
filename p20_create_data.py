@@ -33,7 +33,7 @@ class SynthesisItem:
     categories: Categories
     createdNumbers: int
     injectedNumbers: InjectedNumbers
-    elementals: Elementals
+    elements: Elementals
     sourceItems: List[str]
     effectsInFrame: List[str]
     effectsNotInFrame: List[str]
@@ -80,7 +80,7 @@ def convert(tmp_item: TmpCreatedItem, base_recipe_mapping: Dict[str, Dict[str, s
         categories=convert_to_categories(tmp_item),
         createdNumbers=tmp_item.created_numbers,
         injectedNumbers=convert_to_injected_numbers(tmp_item),
-        elementals=convert_to_elements(tmp_item),
+        elements=convert_to_elements(tmp_item),
         sourceItems=tmp_item.source_items,
         effectsInFrame=tmp_item.effects_in_frame,
         effectsNotInFrame=tmp_item.effects_not_in_frame,
