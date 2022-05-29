@@ -1,0 +1,452 @@
+[
+  {
+    "base_recipe": "アルケミーペイント",
+    "need_item": "匠の塗料",
+    "next_recipe": "精霊の小瓶"
+  },
+  {
+    "base_recipe": "アルケミーペイント",
+    "need_item": "アカシア樹脂",
+    "next_recipe": "ラピスパピヨン"
+  },
+  {
+    "base_recipe": "アンクァンシェル",
+    "need_item": "エリキシルリング",
+    "next_recipe": "エリキシル剤"
+  },
+  {
+    "base_recipe": "アンバーライト",
+    "need_item": "スピリナイト",
+    "next_recipe": "クォーツネックレス"
+  },
+  {
+    "base_recipe": "アンバーライト",
+    "need_item": "エメラルドグラス",
+    "next_recipe": "魔獣の鱗"
+  },
+  {
+    "base_recipe": "イバラの抱擁",
+    "need_item": "ゆらぎの毒煙",
+    "next_recipe": "ポイズンキューブ"
+  },
+  {
+    "base_recipe": "インゴット",
+    "need_item": "コベリナイト",
+    "next_recipe": "ブロンズアイゼン"
+  },
+  {
+    "base_recipe": "インゴット",
+    "need_item": "大きな骨",
+    "next_recipe": "草刈り鎌"
+  },
+  {
+    "base_recipe": "ウォーパウダー",
+    "need_item": "妖薬エボニアル",
+    "next_recipe": "禁忌の雫"
+  },
+  {
+    "base_recipe": "エルツ糖",
+    "need_item": "ウォーパウダー",
+    "next_recipe": "夢見るきのこ"
+  },
+  {
+    "base_recipe": "おいしい練り餌",
+    "need_item": "強力な魚のエサ",
+    "next_recipe": "香る蜜木"
+  },
+  {
+    "base_recipe": "ガラスの花",
+    "need_item": "セイトダイヤ",
+    "next_recipe": "幻視ルーペ"
+  },
+  {
+    "base_recipe": "クライトレヘルン",
+    "need_item": "バニッシジーゲル",
+    "next_recipe": "フェザードラフト"
+  },
+  {
+    "base_recipe": "グラスビーンズ",
+    "need_item": "小麦粉",
+    "next_recipe": "ドライビスク"
+  },
+  {
+    "base_recipe": "グラスビーンズ",
+    "need_item": "苦い根っこ",
+    "next_recipe": "施しの軟膏"
+  },
+  {
+    "base_recipe": "クリスタルエレメント",
+    "need_item": "賢者の石",
+    "next_recipe": "赤の輝石"
+  },
+  {
+    "base_recipe": "クリミネア",
+    "need_item": "時空の天文時計",
+    "next_recipe": "アルクァンシェル"
+  },
+  {
+    "base_recipe": "クロース",
+    "need_item": "錬金繊維",
+    "next_recipe": "ネイチャークロス"
+  },
+  {
+    "base_recipe": "クロース",
+    "need_item": "綿毛草",
+    "next_recipe": "錬金繊維"
+  },
+  {
+    "base_recipe": "ゴルドテリオン",
+    "need_item": "バロンズクラウン",
+    "next_recipe": "ゴールデンクラウン"
+  },
+  {
+    "base_recipe": "コンパス",
+    "need_item": "ルーペ付きコンパス",
+    "next_recipe": "幻視ルーペ"
+  },
+  {
+    "base_recipe": "シュトラプラジグ",
+    "need_item": "フェザードラフト",
+    "next_recipe": "バニッシジーゲル"
+  },
+  {
+    "base_recipe": "スタルチウム",
+    "need_item": "クリミネア",
+    "next_recipe": "ノルデンブランド"
+  },
+  {
+    "base_recipe": "スタルチウム",
+    "need_item": "創生の逆さ石",
+    "next_recipe": "レヘルン"
+  },
+  {
+    "base_recipe": "スピリナイト",
+    "need_item": "ヒートアップバングル",
+    "next_recipe": "セイントダイヤ"
+  },
+  {
+    "base_recipe": "スピリナイト",
+    "need_item": "英霊の魂",
+    "next_recipe": "聖樹結晶"
+  },
+  {
+    "base_recipe": "セイントダイヤ",
+    "need_item": "アルクァンシェル",
+    "next_recipe": "魔石のチェイン"
+  },
+  {
+    "base_recipe": "セイントダイヤ",
+    "need_item": "七煌原石",
+    "next_recipe": "永遠結晶"
+  },
+  {
+    "base_recipe": "ゼッテル",
+    "need_item": "旅人の水珠",
+    "next_recipe": "旅人の水珠"
+  },
+  {
+    "base_recipe": "ソーサリーローズ",
+    "need_item": "風の精の靴",
+    "next_recipe": "精霊の小瓶"
+  },
+  {
+    "base_recipe": "デルフィローズ香",
+    "need_item": "ガラスの花",
+    "next_recipe": "ロテスヴァッサ鉱水"
+  },
+  {
+    "base_recipe": "ドライビスク",
+    "need_item": "プニゼリー",
+    "next_recipe": "ゼラチンパウダー"
+  },
+  {
+    "base_recipe": "ネイチャークロス",
+    "need_item": "ビーストエア",
+    "next_recipe": "ぷにレザー"
+  },
+  {
+    "base_recipe": "ネイチャークロス",
+    "need_item": "動物の毛皮",
+    "next_recipe": "大ぷに玉"
+  },
+  {
+    "base_recipe": "ネクタル",
+    "need_item": "エリキシル剤",
+    "next_recipe": "ドンケルハイト"
+  },
+  {
+    "base_recipe": "パールクリスタル",
+    "need_item": "グナーデリング",
+    "next_recipe": "アンバーライト"
+  },
+  {
+    "base_recipe": "パールクリスタル",
+    "need_item": "ブロンズアイゼン",
+    "next_recipe": "琥珀水晶"
+  },
+  {
+    "base_recipe": "ハチミツ",
+    "need_item": "甘露岩",
+    "next_recipe": "エルツ糖"
+  },
+  {
+    "base_recipe": "ハチミツ",
+    "need_item": "清水の白姫",
+    "next_recipe": "百薬煎じ"
+  },
+  {
+    "base_recipe": "ハンマー",
+    "need_item": "フラムロッド",
+    "next_recipe": "フラムハンマー"
+  },
+  {
+    "base_recipe": "ビーストエア",
+    "need_item": "ソーサリーローズ",
+    "next_recipe": "探検リュック"
+  },
+  {
+    "base_recipe": "ビーストエア",
+    "need_item": "デルフィローズ",
+    "next_recipe": "アルケミーペイント"
+  },
+  {
+    "base_recipe": "ヒーリングチップ",
+    "need_item": "リゾートウッドチップ",
+    "next_recipe": "ソレユの実"
+  },
+  {
+    "base_recipe": "プラジグ",
+    "need_item": "帯電砂",
+    "next_recipe": "シュトラプラジグ"
+  },
+  {
+    "base_recipe": "フラム",
+    "need_item": "火薬のもと",
+    "next_recipe": "ローゼフラム"
+  },
+  {
+    "base_recipe": "ブロンズアイゼン",
+    "need_item": "スタルチウム",
+    "next_recipe": "コンパス"
+  },
+  {
+    "base_recipe": "ブロンズアイゼン",
+    "need_item": "彗星岩",
+    "next_recipe": "魔導書の切れ端"
+  },
+  {
+    "base_recipe": "ポイズンキューブ",
+    "need_item": "異界の腐木",
+    "next_recipe": "禁忌の雫"
+  },
+  {
+    "base_recipe": "ホーリーナット",
+    "need_item": "質素な材木",
+    "next_recipe": "退魔のブローチ"
+  },
+  {
+    "base_recipe": "ホーリーナット",
+    "need_item": "聖石の欠片",
+    "next_recipe": "グリズリーウッド"
+  },
+  {
+    "base_recipe": "マーブルストーン",
+    "need_item": "王国御用達の床石",
+    "next_recipe": "水断ち油"
+  },
+  {
+    "base_recipe": "マーブルストーン",
+    "need_item": "メルトストーン",
+    "next_recipe": "太陽の花"
+  },
+  {
+    "base_recipe": "マスターレザー",
+    "need_item": "フェアリーピース",
+    "next_recipe": "神速のブーツ"
+  },
+  {
+    "base_recipe": "ミックスオイル",
+    "need_item": "魚油リキッド",
+    "next_recipe": "アルケミーペイント"
+  },
+  {
+    "base_recipe": "ミックスオイル",
+    "need_item": "サルディン",
+    "next_recipe": "七色葡萄"
+  },
+  {
+    "base_recipe": "ゆらぎの毒煙",
+    "need_item": "ヒロイックガイスト",
+    "next_recipe": "ミストリキッド"
+  },
+  {
+    "base_recipe": "ラーゼンプディング",
+    "need_item": "カクテルレープ",
+    "next_recipe": "翼竜のタマゴ"
+  },
+  {
+    "base_recipe": "リストレア薬瓶",
+    "need_item": "ぷにぷに玉・赤",
+    "next_recipe": "ネクタル"
+  },
+  {
+    "base_recipe": "ルフト",
+    "need_item": "ミストリキッド",
+    "next_recipe": "レーツェルフト"
+  },
+  {
+    "base_recipe": "レヘルン",
+    "need_item": "クライトレヘルン",
+    "next_recipe": "ガラスの花"
+  },
+  {
+    "base_recipe": "ローゼフラム",
+    "need_item": "誘引火瓶",
+    "next_recipe": "蒼炎の種火"
+  },
+  {
+    "base_recipe": "火薬のもと",
+    "need_item": "蒼炎の種火",
+    "next_recipe": "常世の焔"
+  },
+  {
+    "base_recipe": "簡易建材",
+    "need_item": "ミックスオイル",
+    "next_recipe": "ヒーリングチップ"
+  },
+  {
+    "base_recipe": "簡易建材",
+    "need_item": "インゴット",
+    "next_recipe": "混鉄剛板"
+  },
+  {
+    "base_recipe": "簡易石材",
+    "need_item": "創生の逆さ石",
+    "next_recipe": "マーブルストーン"
+  },
+  {
+    "base_recipe": "禁忌の雫",
+    "need_item": "聖樹の葉",
+    "next_recipe": "聖なる雫"
+  },
+  {
+    "base_recipe": "研磨剤",
+    "need_item": "正体不明の原石",
+    "next_recipe": "エナジーペンダント"
+  },
+  {
+    "base_recipe": "研磨剤",
+    "need_item": "大貝の白玉",
+    "next_recipe": "パールクリスタル"
+  },
+  {
+    "base_recipe": "混鉄剛板",
+    "need_item": "ホーリーナット",
+    "next_recipe": "聖樹の大枝"
+  },
+  {
+    "base_recipe": "小麦粉",
+    "need_item": "クミネの実",
+    "next_recipe": "おいしい練り餌"
+  },
+  {
+    "base_recipe": "小麦粉",
+    "need_item": "魔獣の毒袋",
+    "next_recipe": "ポイズンキューブ"
+  },
+  {
+    "base_recipe": "植物の種",
+    "need_item": "植物エキス",
+    "next_recipe": "水の種"
+  },
+  {
+    "base_recipe": "植物の種",
+    "need_item": "鍾乳石の欠片",
+    "next_recipe": "石の種"
+  },
+  {
+    "base_recipe": "水の種",
+    "need_item": "神秘の種",
+    "next_recipe": "聖石の欠片"
+  },
+  {
+    "base_recipe": "精霊の小瓶",
+    "need_item": "クリスタルエレメント",
+    "next_recipe": "セプトリエン"
+  },
+  {
+    "base_recipe": "石の種",
+    "need_item": "火の種",
+    "next_recipe": "焔の黒砂"
+  },
+  {
+    "base_recipe": "赤の輝石",
+    "need_item": "真紅の輝石",
+    "next_recipe": "女王の遺産"
+  },
+  {
+    "base_recipe": "草刈り鎌",
+    "need_item": "鎌斧",
+    "next_recipe": "薪割り斧"
+  },
+  {
+    "base_recipe": "探索リュック",
+    "need_item": "探検セット",
+    "next_recipe": "風の精の靴"
+  },
+  {
+    "base_recipe": "釣り竿",
+    "need_item": "虫捕り網",
+    "next_recipe": "釣り竿網"
+  },
+  {
+    "base_recipe": "軟式ゴム石",
+    "need_item": "鍾乳石の欠片",
+    "next_recipe": "石の種"
+  },
+  {
+    "base_recipe": "軟式ゴム石",
+    "need_item": "植物エキス",
+    "next_recipe": "水の種"
+  },
+  {
+    "base_recipe": "爆粉うに",
+    "need_item": "中和剤・赤",
+    "next_recipe": "クラフト"
+  },
+  {
+    "base_recipe": "爆粉うに",
+    "need_item": "中和剤・青",
+    "next_recipe": "氷びし"
+  },
+  {
+    "base_recipe": "氷びし",
+    "need_item": "アクア鉱",
+    "next_recipe": "レヘルン"
+  },
+  {
+    "base_recipe": "雷の呼び鈴",
+    "need_item": "エメラルドグラス",
+    "next_recipe": "帯電砂"
+  },
+  {
+    "base_recipe": "旅人の水珠",
+    "need_item": "ミストリキッド",
+    "next_recipe": "デルフィローズ香"
+  },
+  {
+    "base_recipe": "旅人の水珠",
+    "need_item": "古びた魔導書",
+    "next_recipe": "ローゼンリーフ"
+  },
+  {
+    "base_recipe": "錬金繊維",
+    "need_item": "イバラの抱擁",
+    "next_recipe": "ヘブンズストリング"
+  },
+  {
+    "base_recipe": "錬金繊維",
+    "need_item": "クミネの毒液",
+    "next_recipe": "聖石の欠片"
+  }
+]
